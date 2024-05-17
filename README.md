@@ -1,4 +1,4 @@
-## Office Activation Instructions
+##MS Office, Excel , Powerpoint etc Activation Instructions
 
 ### Step 1: Open Command Prompt in Administrator Mode
 First, you need to open Command Prompt with admin rights, then follow the instructions below step by step. Just copy/paste the commands and do not forget to hit Enter to execute them.
